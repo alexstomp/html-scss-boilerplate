@@ -1,7 +1,7 @@
 {
-  "name": "pace-forms",
+  "name": "html-scss-boilerplate",
   "version": "1.0.0",
-  "description": "CSS Styles for Forms",
+  "description": "SCSS + HTML Development",
   "author": "Alex",
   "main": "public/index.html",
   "scripts": {
